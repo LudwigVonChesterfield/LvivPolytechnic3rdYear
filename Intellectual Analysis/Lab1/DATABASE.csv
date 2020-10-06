@@ -1,0 +1,1381 @@
+﻿day/month;Time;Temperature;Dew Point;Humidity;Wind;Wind Speed;Wind Gust;Pressure;Precip.;Precip Accum;Condition
+16.Jul;12:20 AM;72;57;60%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;12:50 AM;73;57;57%;W;3 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;1:20 AM;75;57;53%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;1:50 AM;72;57;60%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;2:20 AM;72;57;60%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;2:50 AM;72;59;64%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;3:20 AM;72;59;64%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;3:50 AM;70;59;68%;W;5 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;4:20 AM;72;59;64%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;4:50 AM;70;57;64%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;5:20 AM;68;57;68%;W;2 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;5:50 AM;68;59;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;6:20 AM;66;57;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;6:50 AM;73;57;57%;W;3 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;7:20 AM;73;59;61%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;7:50 AM;77;57;50%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;8:20 AM;81;57;45%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;8:50 AM;81;57;45%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;9:20 AM;84;55;37%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;9:50 AM;86;54;33%;SSE;5 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;10:20 AM;84;59;42%;ESE;5 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;10:50 AM;88;50;27%;ENE;10 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;11:20 AM;88;54;31%;ENE;10 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;11:50 AM;88;52;29%;ESE;7 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;12:20 PM;90;52;27%;ENE;6 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;12:50 PM;90;50;26%;E;10 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;1:20 PM;91;48;23%;ENE;9 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;1:50 PM;91;50;24%;E;10 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;2:20 PM;91;50;24%;E;6 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;2:50 PM;93;52;24%;E;7 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;3:20 PM;93;54;26%;ESE;6 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;3:50 PM;91;54;28%;E;8 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;4:20 PM;93;54;26%;ESE;6 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;4:50 PM;93;55;28%;E;8 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;5:20 PM;91;55;29%;E;10 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;5:50 PM;91;55;29%;ENE;12 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;6:20 PM;90;57;33%;E;8 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;6:50 PM;88;57;35%;E;8 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;7:20 PM;88;57;35%;ESE;7 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;7:50 PM;86;55;35%;SSE;8 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;8:20 PM;84;55;37%;SW;8 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;8:50 PM;82;57;42%;SW;7 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;9:20 PM;82;57;42%;SW;3 mph ;0 mph ;29,5;0;0;Fair
+16.Jul;9:50 PM;82;55;39%;W;3 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;10:20 PM;81;54;39%;W;2 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;10:50 PM;81;54;39%;W;2 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;11:20 PM;81;50;34%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+16.Jul;11:50 PM;79;54;42%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;12:20 AM;79;54;42%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;12:50 AM;77;54;44%;NNW;1 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;1:20 AM;79;55;44%;W;1 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;1:50 AM;77;57;50%;W;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;2:20 AM;77;57;50%;W;2 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;2:50 AM;77;57;50%;SW;5 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;3:20 AM;77;57;50%;SW;5 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;3:50 AM;77;52;41%;WNW;2 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;4:20 AM;77;55;47%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;4:50 AM;75;55;50%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;5:20 AM;73;55;53%;W;1 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;5:50 AM;73;55;53%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;6:20 AM;73;55;53%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;6:50 AM;75;55;50%;WSW;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;7:20 AM;77;55;47%;WSW;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;7:50 AM;81;59;48%;S;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;8:20 AM;84;59;42%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;8:50 AM;86;57;37%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;9:20 AM;86;61;43%;SE;5 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;9:50 AM;88;57;35%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;10:20 AM;90;57;33%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;10:50 AM;91;57;31%;E;5 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;11:20 AM;93;63;36%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;11:50 AM;93;59;32%;E;6 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;12:20 PM;93;61;34%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;12:50 PM;93;59;32%;ESE;9 mph ;0 mph ;29,5;0;0;Fair
+17.Jul;1:20 PM;95;59;30%;ESE;13 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;1:50 PM;99;55;24%;E;9 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;2:20 PM;99;59;27%;S;9 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;2:50 PM;99;55;24%;S;20 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;3:20 PM;95;57;28%;SSW;20 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;3:50 PM;95;55;26%;SSW;20 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;4:20 PM;95;57;28%;SSW;21 mph ;0 mph ;29,4;0;0;Fair / Windy
+17.Jul;4:50 PM;93;57;30%;SSW;18 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;5:20 PM;93;57;30%;SW;16 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;5:50 PM;91;61;36%;SSW;18 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;6:20 PM;90;61;38%;SSW;18 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;6:50 PM;90;59;36%;SW;14 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;7:20 PM;90;59;36%;SW;16 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;7:50 PM;88;61;40%;SW;12 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;8:20 PM;88;59;38%;SW;13 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;8:50 PM;84;64;51%;SW;9 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;9:20 PM;84;66;55%;W;7 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;9:50 PM;82;64;54%;E;8 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;10:20 PM;88;57;35%;WSW;8 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;10:50 PM;82;61;48%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;11:20 PM;84;61;45%;E;8 mph ;0 mph ;29,4;0;0;Fair
+17.Jul;11:50 PM;84;55;37%;WSW;5 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;12:20 AM;86;54;33%;W;10 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;12:50 AM;84;57;40%;W;14 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;1:20 AM;82;61;48%;WNW;6 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;1:50 AM;81;61;51%;WNW;8 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;2:20 AM;82;59;45%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;2:50 AM;79;61;54%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;3:20 AM;79;59;51%;CALM;0 mph ;0 mph ;29,3;0;0;Fair
+18.Jul;3:50 AM;77;61;57%;VAR;1 mph ;0 mph ;29,3;0;0;Fair
+18.Jul;4:20 AM;77;63;61%;VAR;1 mph ;0 mph ;29,3;0;0;Fair
+18.Jul;4:50 AM;77;61;57%;VAR;3 mph ;0 mph ;29,3;0;0;Fair
+18.Jul;5:20 AM;79;59;51%;CALM;0 mph ;0 mph ;29,3;0;0;Fair
+18.Jul;5:50 AM;79;57;47%;ENE;3 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;6:20 AM;77;59;54%;NNE;9 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;6:50 AM;81;59;48%;W;6 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;7:20 AM;81;63;54%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;7:50 AM;81;64;58%;NNE;6 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;8:20 AM;82;64;54%;NNW;5 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;8:50 AM;82;64;54%;NW;10 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;9:20 AM;84;64;51%;NNW;9 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;9:50 AM;86;59;40%;NW;15 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;10:20 AM;88;55;33%;NNW;14 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;10:50 AM;88;55;33%;NW;14 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;11:20 AM;90;55;31%;NNW;15 mph ;26 mph ;29,4;0;0;Fair
+18.Jul;11:50 AM;90;55;31%;NNW;14 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;12:20 PM;90;55;31%;N;13 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;12:50 PM;90;55;31%;N;10 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;1:20 PM;90;54;29%;NNW;10 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;1:50 PM;90;54;29%;NW;13 mph ;0 mph ;29,4;0;0;Partly Cloudy
+18.Jul;2:20 PM;91;55;29%;NNW;8 mph ;20 mph ;29,4;0;0;Partly Cloudy
+18.Jul;2:50 PM;90;59;36%;NE;15 mph ;0 mph ;29,4;0;0;Partly Cloudy
+18.Jul;3:20 PM;88;59;38%;NE;20 mph ;0 mph ;29,4;0;0;Partly Cloudy
+18.Jul;3:50 PM;90;57;33%;NE;15 mph ;0 mph ;29,4;0;0;Partly Cloudy
+18.Jul;4:20 PM;88;57;35%;ENE;12 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+18.Jul;4:50 PM;90;54;29%;SE;7 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+18.Jul;5:20 PM;91;55;29%;SSW;5 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+18.Jul;5:50 PM;91;55;29%;NNW;10 mph ;0 mph ;29,4;0;0;Partly Cloudy
+18.Jul;6:20 PM;91;55;29%;NNW;13 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;6:50 PM;90;54;29%;NW;12 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;7:20 PM;90;50;26%;N;12 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;7:50 PM;88;46;24%;NNW;8 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;8:20 PM;88;46;24%;N;8 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;8:50 PM;86;50;29%;N;7 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;9:20 PM;86;48;27%;SW;5 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;9:50 PM;82;63;51%;WSW;7 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;10:20 PM;81;66;61%;SW;8 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;10:50 PM;81;66;61%;SW;7 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;11:20 PM;79;66;65%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+18.Jul;11:50 PM;79;64;61%;SW;5 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;12:20 AM;79;64;61%;SW;6 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;12:50 AM;77;64;65%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;1:20 AM;75;64;69%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;1:50 AM;75;64;69%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;2:20 AM;73;63;69%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;2:50 AM;77;59;54%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;3:20 AM;79;54;42%;WNW;6 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;3:50 AM;81;50;34%;WNW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;4:20 AM;81;48;32%;NW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;4:50 AM;81;50;34%;NNW;6 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;5:20 AM;81;50;34%;NNW;7 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;5:50 AM;81;50;34%;N;7 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;6:20 AM;79;50;36%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;6:50 AM;81;50;34%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;7:20 AM;82;50;32%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;7:50 AM;82;52;35%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;8:20 AM;82;50;32%;NW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;8:50 AM;84;52;33%;NW;10 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;9:20 AM;86;52;31%;NW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;9:50 AM;86;52;31%;NW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;10:20 AM;88;52;29%;NW;9 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;10:50 AM;90;52;27%;WNW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;11:20 AM;90;50;26%;WNW;6 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;11:50 AM;90;48;24%;WNW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;12:20 PM;91;50;24%;NW;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;12:50 PM;90;54;29%;VAR;6 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;1:20 PM;90;50;26%;VAR;8 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;1:50 PM;90;52;27%;ENE;5 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;2:20 PM;90;52;27%;E;10 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;2:50 PM;91;50;24%;E;10 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;3:20 PM;91;50;24%;SE;12 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;3:50 PM;91;52;26%;SE;10 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;4:20 PM;91;50;24%;ESE;12 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;4:50 PM;91;57;31%;S;14 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;5:20 PM;90;55;31%;S;13 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;5:50 PM;90;57;33%;S;12 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;6:20 PM;90;54;29%;SSW;13 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;6:50 PM;88;52;29%;SSW;14 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;7:20 PM;86;54;33%;SSW;13 mph ;0 mph ;29,4;0;0;Fair
+19.Jul;7:50 PM;84;59;42%;SSW;13 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;8:20 PM;84;59;42%;SW;10 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+19.Jul;8:50 PM;82;61;48%;VAR;1 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;9:20 PM;81;63;54%;VAR;2 mph ;0 mph ;29,4;0;0;Partly Cloudy
+19.Jul;9:50 PM;82;61;48%;N;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+19.Jul;10:20 PM;79;61;54%;N;3 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+19.Jul;10:50 PM;79;64;61%;ENE;9 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+19.Jul;11:20 PM;81;57;45%;E;3 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+19.Jul;11:50 PM;81;61;51%;E;1 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+20.Jul;12:20 AM;79;61;54%;CALM;0 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+20.Jul;12:50 AM;77;61;57%;W;5 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+20.Jul;1:20 AM;77;61;57%;VAR;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;1:50 AM;75;59;57%;NW;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;2:20 AM;75;59;57%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;2:50 AM;73;59;61%;W;2 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;3:20 AM;75;57;53%;NNW;5 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;3:50 AM;79;55;44%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;4:20 AM;77;57;50%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;4:50 AM;77;57;50%;SSW;1 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;5:20 AM;75;59;57%;VAR;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;5:50 AM;77;57;50%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;6:20 AM;75;59;57%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;6:50 AM;77;59;54%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;7:20 AM;79;57;47%;N;6 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;7:50 AM;81;59;48%;N;8 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;8:20 AM;82;57;42%;NNW;10 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;8:50 AM;82;57;42%;NNW;10 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;9:20 AM;84;57;40%;N;13 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;9:50 AM;84;57;40%;NNW;14 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;10:20 AM;86;57;37%;NNW;13 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;10:50 AM;86;57;37%;NW;12 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;11:20 AM;86;57;37%;NW;12 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;11:50 AM;86;57;37%;NNE;8 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;12:20 PM;86;57;37%;NNW;7 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;12:50 PM;86;57;37%;ENE;14 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;1:20 PM;88;59;38%;NE;14 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;1:50 PM;88;57;35%;ENE;14 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;2:20 PM;90;59;36%;ENE;13 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;2:50 PM;88;57;35%;E;10 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;3:20 PM;88;59;38%;E;9 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;3:50 PM;88;59;38%;ESE;9 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;4:20 PM;88;59;38%;ENE;9 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;4:50 PM;88;63;43%;ESE;8 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;5:20 PM;88;61;40%;E;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;5:50 PM;88;59;38%;E;7 mph ;0 mph ;29,5;0;0;Partly Cloudy
+20.Jul;6:20 PM;86;59;40%;NE;9 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;6:50 PM;86;59;40%;ENE;9 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;7:20 PM;86;59;40%;NE;7 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;7:50 PM;84;61;45%;NNE;5 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;8:20 PM;84;63;48%;SSW;7 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;8:50 PM;81;66;61%;SSW;7 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;9:20 PM;79;66;65%;SW;6 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;9:50 PM;79;64;61%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;10:20 PM;79;66;65%;SW;5 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;10:50 PM;79;66;65%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;11:20 PM;77;66;69%;N;1 mph ;0 mph ;29,5;0;0;Fair
+20.Jul;11:50 PM;77;64;65%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;12:20 AM;73;63;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;12:50 AM;73;63;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;1:20 AM;73;63;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;1:50 AM;72;61;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;2:20 AM;73;63;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;2:50 AM;72;61;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;3:20 AM;70;61;73%;S;3 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;3:50 AM;70;61;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;4:20 AM;72;63;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;4:50 AM;73;63;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;5:20 AM;72;61;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;5:50 AM;68;61;78%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;6:20 AM;68;61;78%;W;3 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;6:50 AM;73;61;65%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;7:20 AM;75;61;61%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;7:50 AM;77;61;57%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;8:20 AM;79;63;57%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;8:50 AM;82;61;48%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;9:20 AM;84;59;42%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;9:50 AM;86;61;43%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;10:20 AM;86;61;43%;SE;6 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;10:50 AM;88;59;38%;ESE;7 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;11:20 AM;88;57;35%;ENE;9 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;11:50 AM;90;57;33%;E;9 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;12:20 PM;91;57;31%;ENE;8 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;12:50 PM;91;57;31%;E;12 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;1:20 PM;91;55;29%;ENE;12 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;1:50 PM;90;55;31%;ESE;10 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;2:20 PM;90;57;33%;E;7 mph ;0 mph ;29,6;0;0;Partly Cloudy
+21.Jul;2:50 PM;91;57;31%;ENE;10 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;3:20 PM;91;57;31%;ENE;8 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;3:50 PM;91;57;31%;ESE;10 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;4:20 PM;93;57;30%;E;9 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;4:50 PM;93;57;30%;ESE;9 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;5:20 PM;91;57;31%;E;10 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;5:50 PM;90;57;33%;ENE;10 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;6:20 PM;90;57;33%;ENE;10 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;6:50 PM;88;57;35%;ENE;10 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;7:20 PM;88;55;33%;NE;8 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;7:50 PM;88;55;33%;NNE;7 mph ;0 mph ;29,5;0;0;Fair
+21.Jul;8:20 PM;86;57;37%;NE;6 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;8:50 PM;84;57;40%;N;3 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;9:20 PM;82;57;42%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;9:50 PM;82;59;45%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;10:20 PM;81;68;65%;SW;5 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;10:50 PM;81;66;61%;W;3 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;11:20 PM;81;66;61%;W;2 mph ;0 mph ;29,6;0;0;Fair
+21.Jul;11:50 PM;81;63;54%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;12:20 AM;81;63;54%;NW;3 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;12:50 AM;81;61;51%;W;5 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;1:20 AM;79;61;54%;W;5 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;1:50 AM;77;61;57%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;2:20 AM;77;61;57%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;2:50 AM;75;63;65%;N;1 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;3:20 AM;72;61;69%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;3:50 AM;72;61;69%;WNW;1 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;4:20 AM;72;61;69%;WNW;5 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;4:50 AM;72;61;69%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;5:20 AM;70;61;73%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;5:50 AM;68;59;73%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;6:20 AM;70;61;73%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;6:50 AM;73;61;65%;W;5 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;7:20 AM;75;59;57%;W;2 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;7:50 AM;77;61;57%;W;2 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;8:20 AM;81;61;51%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;8:50 AM;84;59;42%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;9:20 AM;86;57;37%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;9:50 AM;88;55;33%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;10:20 AM;90;54;29%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;10:50 AM;91;54;28%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;11:20 AM;93;54;26%;SE;7 mph ;0 mph ;29,6;0;0;Fair
+22.Jul;11:50 AM;93;57;30%;E;8 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;12:20 PM;93;57;30%;ESE;8 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;12:50 PM;95;54;25%;SE;8 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;1:20 PM;97;54;23%;S;10 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;1:50 PM;97;54;23%;S;9 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;2:20 PM;99;52;21%;SW;7 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;2:50 PM;99;55;24%;W;9 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;3:20 PM;100;54;21%;WSW;10 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;3:50 PM;99;59;27%;SSW;15 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;4:20 PM;95;57;28%;SW;17 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;4:50 PM;95;59;30%;SSW;18 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;5:20 PM;93;61;34%;SSW;18 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;5:50 PM;91;61;36%;SSW;15 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;6:20 PM;91;63;38%;SSW;17 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;6:50 PM;90;63;40%;SW;17 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;7:20 PM;88;63;43%;SSW;15 mph ;0 mph ;29,4;0;0;Fair
+22.Jul;7:50 PM;86;68;55%;SW;13 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;8:20 PM;84;68;58%;SW;12 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;8:50 PM;82;70;66%;SW;13 mph ;0 mph ;29,5;0;0;Fair
+22.Jul;9:20 PM;82;68;62%;SW;15 mph ;0 mph ;29,4;0;0;Fair
+22.Jul;9:50 PM;88;57;35%;SW;14 mph ;0 mph ;29,4;0;0;Fair
+22.Jul;10:20 PM;88;55;33%;SW;15 mph ;0 mph ;29,4;0;0;Fair
+22.Jul;10:50 PM;88;55;33%;SW;15 mph ;0 mph ;29,4;0;0;Fair
+22.Jul;11:20 PM;88;50;27%;SSW;6 mph ;0 mph ;29,4;0;0;Fair
+22.Jul;11:50 PM;90;48;24%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+23.Jul;12:20 AM;90;46;22%;S;6 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;12:50 AM;90;43;20%;SSW;5 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;1:20 AM;88;43;21%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;1:50 AM;88;45;22%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;2:20 AM;88;45;22%;N;5 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;2:50 AM;82;46;28%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;3:20 AM;82;46;28%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;3:50 AM;81;48;32%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;4:20 AM;82;48;30%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;4:50 AM;84;48;28%;SSW;5 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;5:20 AM;84;48;28%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;5:50 AM;84;46;27%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;6:20 AM;82;46;28%;N;9 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;6:50 AM;84;48;28%;ENE;5 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;7:20 AM;84;48;28%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;7:50 AM;84;48;28%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;8:20 AM;86;48;27%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;8:50 AM;90;50;26%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;9:20 AM;90;48;24%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;9:50 AM;91;48;23%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;10:20 AM;95;46;19%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;10:50 AM;97;46;18%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;11:20 AM;99;46;17%;NNW;5 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;11:50 AM;100;41;13%;W;13 mph ;29 mph ;29,4;0;0;Fair
+23.Jul;12:20 PM;99;46;17%;W;16 mph ;33 mph ;29,4;0;0;Fair
+23.Jul;12:50 PM;99;46;17%;W;21 mph ;32 mph ;29,4;0;0;Fair / Windy
+23.Jul;1:20 PM;99;48;18%;W;18 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;1:50 PM;97;52;22%;W;17 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;2:20 PM;95;52;23%;W;14 mph ;0 mph ;29,3;0;0;Fair
+23.Jul;2:50 PM;97;52;22%;W;10 mph ;0 mph ;29,3;0;0;Partly Cloudy
+23.Jul;3:20 PM;99;52;21%;W;15 mph ;0 mph ;29,3;0;0;Fair
+23.Jul;3:50 PM;99;50;19%;W;15 mph ;0 mph ;29,3;0;0;Fair
+23.Jul;4:20 PM;99;52;21%;W;21 mph ;43 mph ;29,3;0;0;Fair / Windy
+23.Jul;4:50 PM;93;52;24%;W;21 mph ;33 mph ;29,3;0;0;Fair / Windy
+23.Jul;5:20 PM;95;52;23%;W;29 mph ;51 mph ;29,3;0;0;Partly Cloudy / Windy
+23.Jul;5:50 PM;95;46;19%;W;31 mph ;52 mph ;29,3;0;0;Fair / Windy
+23.Jul;6:20 PM;93;46;20%;W;37 mph ;55 mph ;29,3;0;0;Fair / Windy
+23.Jul;6:50 PM;91;48;23%;W;30 mph ;49 mph ;29,3;0;0;Fair / Windy
+23.Jul;7:20 PM;90;52;27%;W;35 mph ;53 mph ;29,3;0;0;Partly Cloudy / Windy
+23.Jul;7:50 PM;90;48;24%;W;31 mph ;48 mph ;29,3;0;0;Drizzle / Windy
+23.Jul;8:20 PM;90;46;22%;WNW;26 mph ;45 mph ;29,3;0;0;Drizzle / Windy
+23.Jul;8:50 PM;91;45;20%;W;25 mph ;45 mph ;29,3;0;0;Partly Cloudy / Windy
+23.Jul;9:20 PM;90;46;22%;WNW;23 mph ;40 mph ;29,3;0;0;Partly Cloudy / Windy
+23.Jul;9:50 PM;90;48;24%;WNW;23 mph ;0 mph ;29,3;0;0;Partly Cloudy / Windy
+23.Jul;10:20 PM;88;48;25%;W;20 mph ;33 mph ;29,3;0;0;Partly Cloudy
+23.Jul;10:50 PM;88;48;25%;W;18 mph ;30 mph ;29,3;0;0;Partly Cloudy
+23.Jul;11:20 PM;86;48;27%;W;9 mph ;0 mph ;29,4;0;0;Fair
+23.Jul;11:50 PM;84;52;33%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;12:20 AM;82;52;35%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;12:50 AM;81;52;37%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;1:20 AM;81;52;37%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;1:50 AM;79;61;54%;ENE;8 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;2:20 AM;77;64;65%;NE;10 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;2:50 AM;77;66;69%;VAR;3 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;3:20 AM;77;66;69%;ENE;6 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;3:50 AM;77;66;69%;NE;8 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;4:20 AM;77;66;69%;NE;8 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;4:50 AM;77;66;69%;ENE;3 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;5:20 AM;75;64;69%;E;1 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;5:50 AM;75;64;69%;CALM;0 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;6:20 AM;73;64;73%;CALM;0 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;6:50 AM;75;66;73%;WNW;3 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;7:20 AM;75;66;73%;WNW;3 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;7:50 AM;77;66;69%;CALM;0 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;8:20 AM;79;64;61%;VAR;1 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;8:50 AM;79;64;61%;VAR;3 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;9:20 AM;79;66;65%;NE;5 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;9:50 AM;79;61;54%;ENE;8 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;10:20 AM;81;63;54%;ENE;10 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;10:50 AM;81;59;48%;ENE;9 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;11:20 AM;79;64;61%;NE;5 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;11:50 AM;79;63;57%;NE;15 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;12:20 PM;82;61;48%;NNE;15 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;12:50 PM;82;61;48%;NE;16 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;1:20 PM;79;63;57%;NE;15 mph ;0 mph ;29,3;0;0;Drizzle
+24.Jul;1:50 PM;81;63;54%;ENE;14 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;2:20 PM;82;63;51%;ENE;14 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;2:50 PM;81;63;54%;NE;14 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;3:20 PM;81;61;51%;NE;12 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;3:50 PM;81;61;51%;NE;10 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;4:20 PM;81;59;48%;NE;8 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;4:50 PM;81;61;51%;E;7 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;5:20 PM;81;61;51%;E;8 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;5:50 PM;81;61;51%;E;6 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;6:20 PM;81;61;51%;E;5 mph ;0 mph ;29,3;0;0;Drizzle
+24.Jul;6:50 PM;81;61;51%;VAR;2 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;7:20 PM;81;61;51%;E;6 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;7:50 PM;79;61;54%;E;6 mph ;0 mph ;29,3;0;0;Thunder
+24.Jul;8:20 PM;79;61;54%;SSE;2 mph ;0 mph ;29,3;0;0;Mostly Cloudy
+24.Jul;8:50 PM;77;64;65%;VAR;2 mph ;0 mph ;29,3;0;0;Thunder
+24.Jul;9:20 PM;75;64;69%;WNW;8 mph ;0 mph ;29,3;0;0;Partly Cloudy
+24.Jul;9:50 PM;75;64;69%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;10:20 PM;73;64;73%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;10:50 PM;72;64;78%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;11:20 PM;72;64;78%;SW;2 mph ;0 mph ;29,4;0;0;Fair
+24.Jul;11:50 PM;73;64;73%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;12:20 AM;75;63;65%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;12:50 AM;73;64;73%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;1:20 AM;73;64;73%;W;5 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;1:50 AM;73;64;73%;W;5 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;2:20 AM;72;63;73%;W;3 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;2:50 AM;72;63;73%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;3:20 AM;72;63;73%;SSE;1 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;3:50 AM;72;64;78%;W;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;4:20 AM;70;64;83%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;4:50 AM;70;63;78%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;5:20 AM;68;61;78%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;5:50 AM;68;61;78%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;6:20 AM;68;59;73%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;6:50 AM;73;61;65%;WSW;3 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;7:20 AM;75;61;61%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;7:50 AM;77;61;57%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;8:20 AM;77;61;57%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;8:50 AM;81;59;48%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;9:20 AM;81;59;48%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+25.Jul;9:50 AM;82;61;48%;VAR;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;10:20 AM;86;59;40%;VAR;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;10:50 AM;84;61;45%;WNW;6 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;11:20 AM;86;61;43%;ENE;8 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;11:50 AM;86;61;43%;ENE;8 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;12:20 PM;84;61;45%;NE;5 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;12:50 PM;86;59;40%;E;8 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;1:20 PM;88;59;38%;NE;7 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;1:50 PM;86;61;43%;SSE;12 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;2:20 PM;82;66;58%;S;5 mph ;0 mph ;29,4;0;0;Light Rain
+25.Jul;2:50 PM;79;68;69%;SSW;7 mph ;0 mph ;29,4;0;0;Light Rain with Thunder
+25.Jul;3:20 PM;79;70;74%;WSW;12 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;3:50 PM;79;68;69%;W;8 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;4:20 PM;84;63;48%;NNW;5 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;4:50 PM;86;61;43%;VAR;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;5:20 PM;86;61;43%;VAR;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;5:50 PM;84;64;51%;SSW;12 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;6:20 PM;82;63;51%;SSW;8 mph ;0 mph ;29,4;0;0;Light Rain with Thunder
+25.Jul;6:50 PM;79;66;65%;WSW;6 mph ;0 mph ;29,4;0;0;Light Rain
+25.Jul;7:20 PM;81;64;58%;WSW;5 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;7:50 PM;81;63;54%;SW;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;8:20 PM;81;64;58%;SW;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;8:50 PM;81;64;58%;SW;7 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;9:20 PM;79;66;65%;SW;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;9:50 PM;79;68;69%;WSW;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;10:20 PM;79;68;69%;VAR;1 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;10:50 PM;79;68;69%;VAR;2 mph ;0 mph ;29,4;0;0;Partly Cloudy
+25.Jul;11:20 PM;79;68;69%;VAR;2 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+25.Jul;11:50 PM;77;68;74%;WNW;2 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;12:20 AM;75;68;78%;W;1 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;12:50 AM;75;68;78%;W;1 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;1:20 AM;73;68;83%;WSW;2 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;1:50 AM;73;68;83%;WNW;2 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;2:20 AM;73;68;83%;WNW;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;2:50 AM;73;68;83%;NW;1 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;3:20 AM;72;66;83%;NNE;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;3:50 AM;72;64;78%;WSW;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;4:20 AM;72;66;83%;WSW;2 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;4:50 AM;70;66;88%;W;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;5:20 AM;70;66;88%;VAR;1 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;5:50 AM;70;66;88%;WSW;3 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;6:20 AM;70;66;88%;VAR;2 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;6:50 AM;73;64;73%;WNW;3 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;7:20 AM;75;64;69%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+26.Jul;7:50 AM;75;64;69%;VAR;1 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;8:20 AM;77;64;65%;VAR;1 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;8:50 AM;79;64;61%;WSW;2 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;9:20 AM;81;64;58%;VAR;1 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;9:50 AM;82;63;51%;ENE;6 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;10:20 AM;82;63;51%;ENE;5 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;10:50 AM;84;63;48%;VAR;2 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;11:20 AM;84;61;45%;ESE;8 mph ;0 mph ;29,4;0;0;Partly Cloudy
+26.Jul;11:50 AM;86;61;43%;SE;6 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;12:20 PM;86;63;45%;E;9 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;12:50 PM;86;61;43%;ESE;10 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;1:20 PM;82;64;54%;SSE;13 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;1:50 PM;79;64;61%;NNW;9 mph ;0 mph ;29,5;0;0;Light Rain with Thunder
+26.Jul;2:20 PM;70;64;83%;N;6 mph ;0 mph ;29,5;0;0;T-Storm
+26.Jul;2:50 PM;73;66;78%;VAR;3 mph ;0 mph ;29,5;0;0;Thunder
+26.Jul;3:20 PM;73;66;78%;VAR;2 mph ;0 mph ;29,5;0;0;Thunder
+26.Jul;3:50 PM;77;68;74%;N;5 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;4:20 PM;81;66;61%;VAR;3 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+26.Jul;4:50 PM;82;66;58%;VAR;2 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+26.Jul;5:20 PM;82;66;58%;VAR;2 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+26.Jul;5:50 PM;81;66;61%;VAR;2 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+26.Jul;6:20 PM;82;66;58%;WNW;5 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+26.Jul;6:50 PM;79;64;61%;W;10 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;7:20 PM;81;63;54%;WSW;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;7:50 PM;79;61;54%;W;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;8:20 PM;79;59;51%;CALM;0 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;8:50 PM;75;63;65%;VAR;1 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;9:20 PM;75;64;69%;VAR;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;9:50 PM;75;61;61%;WSW;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;10:20 PM;77;63;61%;CALM;0 mph ;0 mph ;29,5;0;0;Partly Cloudy
+26.Jul;10:50 PM;73;64;73%;NNE;1 mph ;0 mph ;29,5;0;0;Fair
+26.Jul;11:20 PM;72;63;73%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+26.Jul;11:50 PM;70;64;83%;SSW;1 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;12:20 AM;70;64;83%;VAR;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;12:50 AM;72;63;73%;VAR;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;1:20 AM;70;63;78%;W;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;1:50 AM;68;63;83%;VAR;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;2:20 AM;68;63;83%;WNW;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;2:50 AM;68;63;83%;N;1 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;3:20 AM;66;61;83%;N;1 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;3:50 AM;68;63;83%;VAR;1 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;4:20 AM;68;63;83%;VAR;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;4:50 AM;68;63;83%;CALM;0 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;5:20 AM;68;63;83%;WNW;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;5:50 AM;66;63;88%;CALM;0 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;6:20 AM;64;61;88%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;6:50 AM;70;63;78%;W;2 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;7:20 AM;72;63;73%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;7:50 AM;73;63;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;8:20 AM;75;63;65%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;8:50 AM;77;63;61%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;9:20 AM;79;63;57%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;9:50 AM;81;63;54%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;10:20 AM;81;63;54%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;10:50 AM;82;64;54%;E;5 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;11:20 AM;82;64;54%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;11:50 AM;82;66;58%;E;7 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;12:20 PM;84;64;51%;E;9 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;12:50 PM;84;64;51%;E;7 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;1:20 PM;84;64;51%;E;10 mph ;0 mph ;29,5;0;0;Thunder
+27.Jul;1:50 PM;82;64;54%;E;10 mph ;0 mph ;29,5;0;0;Light Rain with Thunder
+27.Jul;2:20 PM;81;64;58%;WNW;9 mph ;0 mph ;29,5;0;0;Light Rain with Thunder
+27.Jul;2:50 PM;81;70;70%;N;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;3:20 PM;84;66;55%;SE;9 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;3:50 PM;84;64;51%;SE;7 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;4:20 PM;84;64;51%;VAR;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;4:50 PM;84;64;51%;S;5 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;5:20 PM;86;63;45%;SW;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;5:50 PM;86;64;48%;SW;12 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;6:20 PM;84;63;48%;SW;10 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;6:50 PM;84;63;48%;SSW;12 mph ;0 mph ;29,5;0;0;Partly Cloudy
+27.Jul;7:20 PM;84;63;48%;SW;8 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;7:50 PM;82;66;58%;SW;8 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;8:20 PM;81;64;58%;SSW;8 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;8:50 PM;79;64;61%;SSW;7 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;9:20 PM;79;64;61%;SW;6 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;9:50 PM;79;64;61%;SW;6 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;10:20 PM;77;66;69%;SW;5 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;10:50 PM;77;66;69%;WSW;5 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;11:20 PM;77;66;69%;WSW;3 mph ;0 mph ;29,5;0;0;Fair
+27.Jul;11:50 PM;77;66;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;12:20 AM;77;66;69%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;12:50 AM;77;66;69%;W;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;1:20 AM;75;66;73%;N;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;1:50 AM;73;66;78%;N;5 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;2:20 AM;73;66;78%;N;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;2:50 AM;75;66;73%;NNE;3 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;3:20 AM;73;64;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;3:50 AM;73;64;73%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;4:20 AM;73;64;73%;N;3 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;4:50 AM;73;64;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;5:20 AM;68;63;83%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;5:50 AM;68;64;88%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;6:20 AM;68;64;88%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;6:50 AM;73;64;73%;W;3 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;7:20 AM;73;64;73%;W;3 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;7:50 AM;75;64;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;8:20 AM;77;66;69%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;8:50 AM;81;64;58%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;9:20 AM;82;64;54%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;9:50 AM;84;63;48%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;10:20 AM;86;63;45%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;10:50 AM;84;66;55%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;11:20 AM;84;64;51%;E;8 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;11:50 AM;86;64;48%;E;7 mph ;0 mph ;29,5;0;0;Partly Cloudy
+28.Jul;12:20 PM;86;64;48%;E;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+28.Jul;12:50 PM;86;64;48%;ENE;13 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+28.Jul;1:20 PM;82;66;58%;NE;10 mph ;0 mph ;29,5;0;0;Thunder the Vicinity
+28.Jul;1:50 PM;79;66;65%;S;10 mph ;0 mph ;29,5;0;0;Light Rain with Thunder
+28.Jul;2:20 PM;75;66;73%;S;6 mph ;0 mph ;29,5;0;0;Light Rain with Thunder
+28.Jul;2:50 PM;73;68;83%;WNW;9 mph ;0 mph ;29,5;0;0;T-Storm
+28.Jul;3:20 PM;77;70;78%;NNW;7 mph ;0 mph ;29,5;0;0;Thunder the Vicinity
+28.Jul;3:50 PM;81;68;65%;VAR;3 mph ;0 mph ;29,5;0;0;Partly Cloudy
+28.Jul;4:20 PM;84;68;58%;WNW;6 mph ;0 mph ;29,5;0;0;Partly Cloudy
+28.Jul;4:50 PM;86;66;51%;VAR;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+28.Jul;5:20 PM;86;64;48%;SE;6 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;5:50 PM;86;68;55%;ESE;8 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;6:20 PM;84;68;58%;ESE;7 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;6:50 PM;84;68;58%;SE;7 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;7:20 PM;84;68;58%;S;6 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;7:50 PM;84;68;58%;SSW;6 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;8:20 PM;82;68;62%;SSW;6 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;8:50 PM;81;68;65%;SSW;8 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;9:20 PM;79;68;69%;SSW;7 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;9:50 PM;77;70;78%;S;6 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;10:20 PM;77;70;78%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;10:50 PM;75;68;78%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;11:20 PM;77;68;74%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+28.Jul;11:50 PM;77;66;69%;NW;5 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;12:20 AM;77;66;69%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;12:50 AM;77;66;69%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;1:20 AM;77;66;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;1:50 AM;77;66;69%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;2:20 AM;75;66;73%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;2:50 AM;73;66;78%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;3:20 AM;73;66;78%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;3:50 AM;73;64;73%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;4:20 AM;72;64;78%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;4:50 AM;72;64;78%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;5:20 AM;72;64;78%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;5:50 AM;72;66;83%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;6:20 AM;70;64;83%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;6:50 AM;73;64;73%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;7:20 AM;73;64;73%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;7:50 AM;77;64;65%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;8:20 AM;81;66;61%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;8:50 AM;81;64;58%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;9:20 AM;82;66;58%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;9:50 AM;84;66;55%;NE;10 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;10:20 AM;84;66;55%;NE;13 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;10:50 AM;84;64;51%;NE;14 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;11:20 AM;86;64;48%;NE;12 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;11:50 AM;84;64;51%;NE;12 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;12:20 PM;86;64;48%;ENE;10 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;12:50 PM;88;66;49%;ENE;13 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;1:20 PM;86;66;51%;NE;16 mph ;0 mph ;29,4;0;0;Partly Cloudy
+29.Jul;1:50 PM;84;66;55%;ENE;18 mph ;0 mph ;29,4;0;0;Thunder
+29.Jul;2:20 PM;82;68;62%;NNW;13 mph ;26 mph ;29,5;0;0;T-Storm
+29.Jul;2:50 PM;68;64;88%;W;22 mph ;0 mph ;29,5;0;0;Heavy T-Storm / Windy
+29.Jul;3:20 PM;70;66;88%;W;9 mph ;0 mph ;29,5;0;0;Light Rain with Thunder
+29.Jul;3:50 PM;70;66;88%;WSW;7 mph ;0 mph ;29,5;0;0;Light Rain
+29.Jul;4:20 PM;73;68;83%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;4:50 PM;77;68;74%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;5:20 PM;79;64;61%;SE;5 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;5:50 PM;79;66;65%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;6:20 PM;77;66;69%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;6:50 PM;79;66;65%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;7:20 PM;77;68;74%;VAR;1 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;7:50 PM;79;66;65%;NW;5 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;8:20 PM;79;66;65%;NW;6 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;8:50 PM;77;66;69%;VAR;3 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;9:20 PM;77;66;69%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+29.Jul;9:50 PM;77;66;69%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;10:20 PM;75;68;78%;SSW;5 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;10:50 PM;77;66;69%;NW;2 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;11:20 PM;75;66;73%;NNW;5 mph ;0 mph ;29,5;0;0;Fair
+29.Jul;11:50 PM;75;66;73%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;12:20 AM;75;66;73%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;12:50 AM;75;66;73%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;1:20 AM;75;66;73%;NNW;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;1:50 AM;75;66;73%;N;2 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;2:20 AM;75;66;73%;N;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;2:50 AM;75;66;73%;N;2 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;3:20 AM;75;66;73%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;3:50 AM;75;66;73%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;4:20 AM;73;64;73%;NNE;5 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;4:50 AM;73;64;73%;NNW;3 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;5:20 AM;73;64;73%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;5:50 AM;73;64;73%;CALM;0 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;6:20 AM;73;64;73%;NNW;5 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;6:50 AM;75;64;69%;NNW;3 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;7:20 AM;77;64;65%;NNW;3 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;7:50 AM;79;64;61%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;8:20 AM;81;64;58%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;8:50 AM;81;64;58%;N;9 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;9:20 AM;82;64;54%;N;10 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;9:50 AM;82;64;54%;N;10 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;10:20 AM;84;63;48%;N;12 mph ;0 mph ;29,4;0;0;Partly Cloudy
+30.Jul;10:50 AM;84;63;48%;N;12 mph ;0 mph ;29,5;0;0;Partly Cloudy
+30.Jul;11:20 AM;84;64;51%;N;9 mph ;0 mph ;29,5;0;0;Partly Cloudy
+30.Jul;11:50 AM;88;63;43%;NNW;10 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;12:20 PM;88;63;43%;N;12 mph ;35 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;12:50 PM;88;64;46%;N;15 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;1:20 PM;88;63;43%;NNE;14 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;1:50 PM;88;63;43%;NE;17 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;2:20 PM;88;63;43%;NE;17 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;2:50 PM;90;63;40%;ENE;15 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;3:20 PM;90;63;40%;ENE;15 mph ;0 mph ;29,4;0;0;Mostly Cloudy
+30.Jul;3:50 PM;90;66;46%;E;14 mph ;0 mph ;29,4;0;0;Partly Cloudy
+30.Jul;4:20 PM;90;64;43%;ENE;14 mph ;0 mph ;29,4;0;0;Partly Cloudy
+30.Jul;4:50 PM;90;63;40%;ENE;16 mph ;0 mph ;29,4;0;0;Partly Cloudy
+30.Jul;5:20 PM;90;64;43%;ENE;18 mph ;0 mph ;29,4;0;0;Partly Cloudy
+30.Jul;5:50 PM;86;64;48%;NE;17 mph ;0 mph ;29,4;0;0;Partly Cloudy
+30.Jul;6:20 PM;86;64;48%;NE;18 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;6:50 PM;86;64;48%;NE;16 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;7:20 PM;86;63;45%;NE;14 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;7:50 PM;84;63;48%;NE;12 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;8:20 PM;84;63;48%;NNE;8 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;8:50 PM;82;63;51%;NNE;5 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;9:20 PM;82;63;51%;VAR;2 mph ;0 mph ;29,4;0;0;Fair
+30.Jul;9:50 PM;82;64;54%;VAR;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;10:20 PM;82;63;51%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;10:50 PM;81;63;54%;SW;3 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;11:20 PM;77;63;61%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+30.Jul;11:50 PM;79;63;57%;W;3 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;12:20 AM;79;63;57%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;12:50 AM;79;63;57%;NW;3 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;1:20 AM;77;63;61%;NNW;2 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;1:50 AM;75;63;65%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;2:20 AM;75;63;65%;NW;1 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;2:50 AM;75;63;65%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;3:20 AM;75;63;65%;WNW;2 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;3:50 AM;75;63;65%;NNW;1 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;4:20 AM;75;63;65%;NW;3 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;4:50 AM;73;63;69%;N;6 mph ;0 mph ;29,4;0;0;Fair
+31.Jul;5:20 AM;73;63;69%;NNE;5 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;5:50 AM;73;63;69%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;6:20 AM;73;63;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;6:50 AM;75;63;65%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;7:20 AM;79;63;57%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;7:50 AM;77;64;65%;NNW;9 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;8:20 AM;79;64;61%;N;5 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;8:50 AM;79;66;65%;VAR;1 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;9:20 AM;82;64;54%;NNE;8 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;9:50 AM;84;63;48%;N;12 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;10:20 AM;86;63;45%;NNE;12 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;10:50 AM;86;63;45%;N;12 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;11:20 AM;86;63;45%;N;10 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;11:50 AM;88;64;46%;NNE;9 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;12:20 PM;88;64;46%;NNE;12 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;12:50 PM;86;64;48%;NNE;13 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;1:20 PM;88;66;49%;NE;17 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;1:50 PM;88;66;49%;NE;18 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;2:20 PM;88;64;46%;NE;18 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;2:50 PM;88;66;49%;ENE;18 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;3:20 PM;88;68;52%;ENE;21 mph ;0 mph ;29,5;0;0;Partly Cloudy / Windy
+31.Jul;3:50 PM;86;66;51%;ENE;18 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+31.Jul;4:20 PM;86;66;51%;ENE;13 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+31.Jul;4:50 PM;84;66;55%;ENE;13 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+31.Jul;5:20 PM;84;64;51%;E;9 mph ;0 mph ;29,5;0;0;Mostly Cloudy
+31.Jul;5:50 PM;86;64;48%;ENE;12 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;6:20 PM;86;63;45%;NE;13 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;6:50 PM;84;63;48%;NNE;8 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;7:20 PM;84;64;51%;NNE;8 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;7:50 PM;82;63;51%;NNE;6 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;8:20 PM;82;63;51%;NE;9 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;8:50 PM;81;64;58%;NNE;8 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;9:20 PM;81;64;58%;NNE;8 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;9:50 PM;79;66;65%;NNE;5 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;10:20 PM;79;68;69%;VAR;2 mph ;0 mph ;29,5;0;0;Partly Cloudy
+31.Jul;10:50 PM;79;68;69%;ENE;5 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;11:20 PM;75;68;78%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+31.Jul;11:50 PM;79;68;69%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;12:20 AM;77;68;74%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;12:50 AM;77;68;74%;W;2 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;1:20 AM;75;68;78%;WNW;3 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;1:50 AM;75;68;78%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;2:20 AM;75;68;78%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;2:50 AM;73;68;83%;NW;1 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;3:20 AM;73;68;83%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;3:50 AM;73;68;83%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;4:20 AM;73;68;83%;W;2 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;4:50 AM;72;68;88%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;5:20 AM;72;68;88%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;5:50 AM;72;66;83%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;6:20 AM;72;66;83%;CALM;0 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;6:50 AM;77;64;65%;NW;5 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;7:20 AM;79;64;61%;NNW;2 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;7:50 AM;81;64;58%;VAR;2 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;8:20 AM;82;64;54%;N;5 mph ;0 mph ;29,5;0;0;Fair
+01.Aug;8:50 AM;84;64;51%;NW;5 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;9:20 AM;84;64;51%;NW;6 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;9:50 AM;86;64;48%;NNE;10 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;10:20 AM;86;64;48%;N;10 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;10:50 AM;86;64;48%;NNE;12 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;11:20 AM;88;64;46%;N;10 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;11:50 AM;88;66;49%;NNE;14 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;12:20 PM;88;66;49%;NNE;15 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;12:50 PM;88;66;49%;NNE;15 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;1:20 PM;88;64;46%;NE;15 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;1:50 PM;88;66;49%;NNE;16 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;2:20 PM;88;64;46%;NNE;14 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;2:50 PM;90;66;46%;NE;17 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;3:20 PM;88;64;46%;ENE;15 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;3:50 PM;90;64;43%;ENE;14 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;4:20 PM;88;66;49%;ENE;12 mph ;0 mph ;29,6;0;0;Mostly Cloudy
+01.Aug;4:50 PM;88;66;49%;E;13 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;5:20 PM;88;66;49%;ENE;13 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;5:50 PM;86;64;48%;NE;15 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;6:20 PM;86;64;48%;NE;14 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;6:50 PM;86;64;48%;NE;13 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;7:20 PM;84;63;48%;NE;13 mph ;0 mph ;29,6;0;0;Partly Cloudy
+01.Aug;7:50 PM;84;64;51%;NE;9 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;8:20 PM;82;64;54%;NE;9 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;8:50 PM;82;64;54%;NE;8 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;9:20 PM;81;64;58%;ENE;8 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;9:50 PM;81;64;58%;NNE;6 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;10:20 PM;81;64;58%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;10:50 PM;77;66;69%;NE;1 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;11:20 PM;77;66;69%;W;3 mph ;0 mph ;29,6;0;0;Fair
+01.Aug;11:50 PM;75;66;73%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;12:20 AM;75;66;73%;W;2 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;12:50 AM;73;66;78%;WNW;1 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;1:20 AM;73;66;78%;WNW;3 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;1:50 AM;73;66;78%;WSW;2 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;2:20 AM;73;66;78%;W;2 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;2:50 AM;73;66;78%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;3:20 AM;73;64;73%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;3:50 AM;72;66;83%;WSW;3 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;4:20 AM;72;66;83%;WSW;2 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;4:50 AM;70;64;83%;WSW;5 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;5:20 AM;72;64;78%;WNW;1 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;5:50 AM;72;64;78%;CALM;0 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;6:20 AM;72;64;78%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;6:50 AM;75;63;65%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;7:20 AM;79;64;61%;NW;5 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;7:50 AM;81;64;58%;NW;9 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;8:20 AM;82;64;54%;NW;7 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;8:50 AM;84;64;51%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;9:20 AM;86;63;45%;NNW;7 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;9:50 AM;86;64;48%;N;8 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;10:20 AM;88;64;46%;NNE;14 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;10:50 AM;88;64;46%;NNE;15 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;11:20 AM;88;64;46%;N;12 mph ;26 mph ;29,6;0;0;Partly Cloudy
+02.Aug;11:50 AM;88;66;49%;NNE;14 mph ;0 mph ;29,6;0;0;Partly Cloudy
+02.Aug;12:20 PM;90;66;46%;NNE;12 mph ;0 mph ;29,6;0;0;Partly Cloudy
+02.Aug;12:50 PM;90;66;46%;NNE;22 mph ;0 mph ;29,6;0;0;Partly Cloudy / Windy
+02.Aug;1:20 PM;90;66;46%;NNE;21 mph ;32 mph ;29,6;0;0;Partly Cloudy / Windy
+02.Aug;1:50 PM;90;66;46%;N;14 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;2:20 PM;90;64;43%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+02.Aug;2:50 PM;90;64;43%;NE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+02.Aug;3:20 PM;91;66;43%;ENE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+02.Aug;3:50 PM;90;66;46%;ENE;20 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;4:20 PM;90;66;46%;NE;20 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;4:50 PM;90;66;46%;NE;16 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;5:20 PM;90;66;46%;NE;18 mph ;0 mph ;29,5;0;0;Fair
+02.Aug;5:50 PM;88;66;49%;NE;18 mph ;0 mph ;29,5;0;0;Fair
+02.Aug;6:20 PM;86;64;48%;NE;18 mph ;0 mph ;29,5;0;0;Fair
+02.Aug;6:50 PM;86;66;51%;NE;17 mph ;0 mph ;29,5;0;0;Fair
+02.Aug;7:20 PM;84;68;58%;NE;18 mph ;0 mph ;29,5;0;0;Fair
+02.Aug;7:50 PM;84;66;55%;NE;18 mph ;0 mph ;29,5;0;0;Fair
+02.Aug;8:20 PM;82;66;58%;NNE;15 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;8:50 PM;82;66;58%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;9:20 PM;82;64;54%;N;12 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;9:50 PM;82;64;54%;N;8 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;10:20 PM;82;64;54%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;10:50 PM;82;66;58%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;11:20 PM;82;66;58%;N;12 mph ;0 mph ;29,6;0;0;Fair
+02.Aug;11:50 PM;82;66;58%;N;15 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;12:20 AM;82;64;54%;NNE;13 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;12:50 AM;82;64;54%;N;15 mph ;0 mph ;29,6;0;0;Partly Cloudy
+03.Aug;1:20 AM;82;66;58%;N;13 mph ;0 mph ;29,6;0;0;Partly Cloudy
+03.Aug;1:50 AM;81;66;61%;N;13 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;2:20 AM;81;66;61%;N;13 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;2:50 AM;81;66;61%;N;9 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;3:20 AM;81;66;61%;N;13 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;3:50 AM;81;64;58%;N;13 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;4:20 AM;81;64;58%;N;12 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;4:50 AM;79;61;54%;N;12 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;5:20 AM;81;61;51%;N;13 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;5:50 AM;79;61;54%;N;14 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;6:20 AM;79;61;54%;N;14 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;6:50 AM;79;59;51%;N;14 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;7:20 AM;81;59;48%;N;17 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;7:50 AM;81;59;48%;N;18 mph ;32 mph ;29,5;0;0;Fair
+03.Aug;8:20 AM;82;57;42%;N;20 mph ;32 mph ;29,5;0;0;Fair
+03.Aug;8:50 AM;84;57;40%;N;17 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;9:20 AM;84;57;40%;N;20 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;9:50 AM;86;57;37%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+03.Aug;10:20 AM;86;57;37%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+03.Aug;10:50 AM;86;55;35%;N;21 mph ;32 mph ;29,6;0;0;Fair / Windy
+03.Aug;11:20 AM;86;57;37%;N;20 mph ;0 mph ;29,6;0;0;Fair
+03.Aug;11:50 AM;86;59;40%;N;24 mph ;36 mph ;29,6;0;0;Fair / Windy
+03.Aug;12:20 PM;88;57;35%;NNE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+03.Aug;12:50 PM;88;55;33%;NNE;23 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;1:20 PM;88;57;35%;NNE;23 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;1:50 PM;90;59;36%;NNE;25 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;2:20 PM;88;59;38%;NNE;28 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;2:50 PM;90;55;31%;NNE;28 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;3:20 PM;90;54;29%;NE;30 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;3:50 PM;90;54;29%;NE;28 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;4:20 PM;90;54;29%;NE;29 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;4:50 PM;88;52;29%;NE;24 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;5:20 PM;88;54;31%;NE;24 mph ;39 mph ;29,5;0;0;Fair / Windy
+03.Aug;5:50 PM;86;55;35%;NNE;23 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;6:20 PM;86;54;33%;NNE;21 mph ;0 mph ;29,5;0;0;Fair / Windy
+03.Aug;6:50 PM;86;54;33%;N;16 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;7:20 PM;84;54;35%;N;14 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;7:50 PM;84;54;35%;N;12 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;8:20 PM;84;54;35%;N;13 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;8:50 PM;84;54;35%;NNW;12 mph ;24 mph ;29,5;0;0;Fair
+03.Aug;9:20 PM;84;54;35%;NNW;13 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;9:50 PM;84;54;35%;NNW;10 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;10:20 PM;84;54;35%;NNW;12 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;10:50 PM;82;55;39%;N;12 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;11:20 PM;81;57;45%;N;12 mph ;0 mph ;29,5;0;0;Fair
+03.Aug;11:50 PM;81;59;48%;N;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;12:20 AM;81;59;48%;N;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;12:50 AM;81;59;48%;N;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;1:20 AM;81;61;51%;N;9 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;1:50 AM;79;61;54%;N;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;2:20 AM;81;61;51%;N;14 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;2:50 AM;79;63;57%;N;14 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;3:20 AM;79;63;57%;N;14 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;3:50 AM;79;64;61%;N;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;4:20 AM;79;64;61%;N;9 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;4:50 AM;77;64;65%;N;10 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;5:20 AM;79;63;57%;N;10 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;5:50 AM;79;59;51%;N;9 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;6:20 AM;79;59;51%;NNW;8 mph ;20 mph ;29,5;0;0;Fair
+04.Aug;6:50 AM;79;55;44%;NNW;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;7:20 AM;81;55;42%;NNW;15 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;7:50 AM;81;55;42%;N;14 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;8:20 AM;82;54;37%;N;14 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;8:50 AM;82;54;37%;N;18 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;9:20 AM;82;57;42%;N;21 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;9:50 AM;84;57;40%;N;21 mph ;37 mph ;29,5;0;0;Fair / Windy
+04.Aug;10:20 AM;84;55;37%;N;20 mph ;32 mph ;29,5;0;0;Fair
+04.Aug;10:50 AM;86;55;35%;N;23 mph ;35 mph ;29,5;0;0;Fair / Windy
+04.Aug;11:20 AM;86;57;37%;N;23 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;11:50 AM;86;54;33%;N;23 mph ;35 mph ;29,5;0;0;Fair / Windy
+04.Aug;12:20 PM;88;54;31%;NNE;22 mph ;35 mph ;29,5;0;0;Fair / Windy
+04.Aug;12:50 PM;88;55;33%;NNE;20 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;1:20 PM;88;55;33%;N;22 mph ;33 mph ;29,5;0;0;Fair / Windy
+04.Aug;1:50 PM;88;54;31%;N;22 mph ;35 mph ;29,5;0;0;Fair / Windy
+04.Aug;2:20 PM;88;55;33%;N;20 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;2:50 PM;90;55;31%;NNE;29 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;3:20 PM;90;54;29%;NNE;30 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;3:50 PM;88;54;31%;NNE;28 mph ;40 mph ;29,5;0;0;Fair / Windy
+04.Aug;4:20 PM;88;54;31%;NNE;25 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;4:50 PM;88;55;33%;NNE;26 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;5:20 PM;88;57;35%;NE;30 mph ;0 mph ;29,5;0;0;Fair / Windy
+04.Aug;5:50 PM;86;57;37%;NNE;20 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;6:20 PM;86;59;40%;N;16 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;6:50 PM;86;59;40%;N;17 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;7:20 PM;84;59;42%;N;17 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;7:50 PM;84;57;40%;N;14 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;8:20 PM;84;57;40%;N;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;8:50 PM;84;57;40%;NNW;13 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;9:20 PM;84;55;37%;NNW;10 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;9:50 PM;84;54;35%;NNW;12 mph ;0 mph ;29,5;0;0;Fair
+04.Aug;10:20 PM;82;55;39%;NNW;10 mph ;0 mph ;29,6;0;0;Fair
+04.Aug;10:50 PM;82;57;42%;N;12 mph ;0 mph ;29,6;0;0;Fair
+04.Aug;11:20 PM;81;57;45%;NNW;9 mph ;0 mph ;29,6;0;0;Fair
+04.Aug;11:50 PM;81;57;45%;N;10 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;12:20 AM;81;57;45%;N;10 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;12:50 AM;81;57;45%;N;15 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;1:20 AM;81;57;45%;N;16 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;1:50 AM;81;59;48%;N;15 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;2:20 AM;81;59;48%;N;12 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;2:50 AM;79;59;51%;N;13 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;3:20 AM;79;57;47%;NNW;6 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;3:50 AM;79;57;47%;N;7 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;4:20 AM;79;55;44%;N;10 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;4:50 AM;77;55;47%;N;14 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;5:20 AM;77;55;47%;N;14 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;5:50 AM;77;55;47%;N;16 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;6:20 AM;77;55;47%;N;16 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;6:50 AM;77;55;47%;N;9 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;7:20 AM;79;55;44%;N;10 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;7:50 AM;79;57;47%;N;13 mph ;0 mph ;29,5;0;0;Fair
+05.Aug;8:20 AM;81;57;45%;N;15 mph ;26 mph ;29,6;0;0;Fair
+05.Aug;8:50 AM;82;57;42%;N;16 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;9:20 AM;82;57;42%;N;20 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;9:50 AM;82;57;42%;N;20 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;10:20 AM;84;57;40%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;10:50 AM;84;57;40%;N;20 mph ;31 mph ;29,6;0;0;Fair
+05.Aug;11:20 AM;86;57;37%;NNE;24 mph ;36 mph ;29,6;0;0;Fair / Windy
+05.Aug;11:50 AM;86;57;37%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;12:20 PM;86;57;37%;NNE;26 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;12:50 PM;88;55;33%;NNE;24 mph ;37 mph ;29,6;0;0;Fair / Windy
+05.Aug;1:20 PM;88;54;31%;NNE;22 mph ;35 mph ;29,6;0;0;Fair / Windy
+05.Aug;1:50 PM;88;55;33%;NNE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;2:20 PM;88;57;35%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;2:50 PM;88;57;35%;NNE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;3:20 PM;88;57;35%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;3:50 PM;88;57;35%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;4:20 PM;88;57;35%;NE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;4:50 PM;88;57;35%;NE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;5:20 PM;88;54;31%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+05.Aug;5:50 PM;86;55;35%;NNE;20 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;6:20 PM;86;55;35%;NNE;18 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;6:50 PM;86;55;35%;N;17 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;7:20 PM;84;54;35%;NNE;18 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;7:50 PM;84;55;37%;NNE;15 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;8:20 PM;82;55;39%;N;13 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;8:50 PM;82;54;37%;N;7 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;9:20 PM;82;54;37%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;9:50 PM;82;52;35%;NW;6 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;10:20 PM;81;52;37%;NW;8 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;10:50 PM;81;54;39%;N;5 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;11:20 PM;81;54;39%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+05.Aug;11:50 PM;79;54;42%;N;8 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;12:20 AM;81;54;39%;N;8 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;12:50 AM;79;54;42%;N;8 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;1:20 AM;81;54;39%;N;7 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;1:50 AM;81;54;39%;N;9 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;2:20 AM;81;52;37%;N;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;2:50 AM;81;52;37%;N;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;3:20 AM;81;54;39%;N;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;3:50 AM;81;54;39%;N;13 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;4:20 AM;81;54;39%;N;10 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;4:50 AM;79;52;39%;NNE;9 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;5:20 AM;79;54;42%;N;9 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;5:50 AM;77;52;41%;N;9 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;6:20 AM;77;54;44%;N;9 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;6:50 AM;81;52;37%;N;10 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;7:20 AM;81;52;37%;N;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;7:50 AM;82;54;37%;N;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;8:20 AM;82;54;37%;N;14 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;8:50 AM;84;54;35%;N;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;9:20 AM;86;52;31%;NNW;15 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;9:50 AM;86;52;31%;NNW;14 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;10:20 AM;88;54;31%;N;15 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;10:50 AM;88;52;29%;N;14 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;11:20 AM;90;52;27%;N;17 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;11:50 AM;90;52;27%;N;16 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;12:20 PM;90;52;27%;N;20 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;12:50 PM;90;52;27%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;1:20 PM;90;50;26%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;1:50 PM;91;48;23%;NNE;21 mph ;33 mph ;29,6;0;0;Fair / Windy
+06.Aug;2:20 PM;90;46;22%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;2:50 PM;91;48;23%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;3:20 PM;91;48;23%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;3:50 PM;91;48;23%;ENE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;4:20 PM;91;48;23%;ENE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;4:50 PM;91;48;23%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;5:20 PM;91;48;23%;ENE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+06.Aug;5:50 PM;90;50;26%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;6:20 PM;88;48;25%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;6:50 PM;88;50;27%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;7:20 PM;86;50;29%;NNE;14 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;7:50 PM;86;50;29%;NNE;14 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;8:20 PM;84;48;28%;NNE;9 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;8:50 PM;84;45;25%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;9:20 PM;84;46;27%;N;8 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;9:50 PM;81;46;30%;N;7 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;10:20 PM;82;46;28%;NNE;7 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;10:50 PM;79;45;30%;N;8 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;11:20 PM;77;45;32%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+06.Aug;11:50 PM;77;45;32%;NW;8 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;12:20 AM;79;46;32%;NNW;7 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;12:50 AM;77;46;34%;NNW;7 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;1:20 AM;79;46;32%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;1:50 AM;79;48;34%;NW;3 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;2:20 AM;79;48;34%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;2:50 AM;79;48;34%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;3:20 AM;79;48;34%;NW;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;3:50 AM;77;50;39%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;4:20 AM;77;50;39%;N;7 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;4:50 AM;77;50;39%;N;7 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;5:20 AM;75;52;44%;NNW;5 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;5:50 AM;75;52;44%;NNW;5 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;6:20 AM;73;52;47%;WNW;3 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;6:50 AM;77;52;41%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;7:20 AM;77;52;41%;NW;7 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;7:50 AM;81;52;37%;N;5 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;8:20 AM;82;54;37%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;8:50 AM;84;54;35%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;9:20 AM;86;54;33%;N;9 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;9:50 AM;86;54;33%;N;12 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;10:20 AM;86;55;35%;N;10 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;10:50 AM;88;54;31%;N;10 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;11:20 AM;90;57;33%;NNW;12 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;11:50 AM;90;55;31%;N;14 mph ;26 mph ;29,6;0;0;Partly Cloudy
+07.Aug;12:20 PM;91;55;29%;NNE;20 mph ;0 mph ;29,6;0;0;Partly Cloudy
+07.Aug;12:50 PM;90;54;29%;N;18 mph ;0 mph ;29,6;0;0;Partly Cloudy
+07.Aug;1:20 PM;91;52;26%;NNE;18 mph ;0 mph ;29,6;0;0;Partly Cloudy
+07.Aug;1:50 PM;91;57;31%;NNE;20 mph ;0 mph ;29,6;0;0;Partly Cloudy
+07.Aug;2:20 PM;91;55;29%;NNE;21 mph ;33 mph ;29,6;0;0;Partly Cloudy / Windy
+07.Aug;2:50 PM;93;52;24%;NE;21 mph ;0 mph ;29,6;0;0;Partly Cloudy / Windy
+07.Aug;3:20 PM;91;50;24%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+07.Aug;3:50 PM;93;50;23%;NE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+07.Aug;4:20 PM;91;52;26%;NE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+07.Aug;4:50 PM;91;50;24%;NE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+07.Aug;5:20 PM;91;52;26%;NE;18 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;5:50 PM;90;50;26%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;6:20 PM;90;50;26%;NNE;20 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;6:50 PM;88;52;29%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;7:20 PM;88;50;27%;NNE;15 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;7:50 PM;86;50;29%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;8:20 PM;86;48;27%;NNE;10 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;8:50 PM;84;48;28%;N;8 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;9:20 PM;84;48;28%;N;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;9:50 PM;82;50;32%;NNW;5 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;10:20 PM;82;48;30%;NNW;5 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;10:50 PM;79;48;34%;N;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;11:20 PM;75;48;38%;N;6 mph ;0 mph ;29,6;0;0;Fair
+07.Aug;11:50 PM;77;46;34%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;12:20 AM;75;48;38%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;12:50 AM;79;48;34%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;1:20 AM;77;48;36%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;1:50 AM;75;50;41%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;2:20 AM;75;50;41%;VAR;3 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;2:50 AM;75;50;41%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;3:20 AM;72;52;50%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;3:50 AM;75;50;41%;N;7 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;4:20 AM;77;50;39%;N;6 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;4:50 AM;75;52;44%;N;5 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;5:20 AM;79;52;39%;NNW;3 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;5:50 AM;75;52;44%;N;5 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;6:20 AM;75;54;47%;N;5 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;6:50 AM;79;55;44%;NNW;7 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;7:20 AM;81;55;42%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;7:50 AM;81;55;42%;N;6 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;8:20 AM;82;57;42%;N;12 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;8:50 AM;84;57;40%;N;14 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;9:20 AM;84;55;37%;N;13 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;9:50 AM;86;55;35%;N;12 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;10:20 AM;88;54;31%;N;13 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;10:50 AM;90;52;27%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;11:20 AM;90;52;27%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;11:50 AM;90;54;29%;N;23 mph ;36 mph ;29,6;0;0;Fair / Windy
+08.Aug;12:20 PM;90;54;29%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;12:50 PM;90;54;29%;N;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;1:20 PM;90;55;31%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;1:50 PM;91;55;29%;NNE;23 mph ;35 mph ;29,6;0;0;Fair / Windy
+08.Aug;2:20 PM;91;57;31%;N;20 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;2:50 PM;91;57;31%;NNE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;3:20 PM;91;57;31%;N;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;3:50 PM;91;55;29%;NE;25 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;4:20 PM;91;55;29%;NNE;20 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;4:50 PM;91;52;26%;NE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;5:20 PM;90;54;29%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+08.Aug;5:50 PM;91;52;26%;NNE;20 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;6:20 PM;90;52;27%;N;17 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;6:50 PM;90;54;29%;NNE;18 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;7:20 PM;88;54;31%;N;14 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;7:50 PM;86;54;33%;N;9 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;8:20 PM;86;54;33%;N;12 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;8:50 PM;84;55;37%;N;9 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;9:20 PM;84;55;37%;N;6 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;9:50 PM;84;57;40%;N;9 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;10:20 PM;84;57;40%;N;9 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;10:50 PM;84;59;42%;N;14 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;11:20 PM;82;59;45%;N;12 mph ;0 mph ;29,6;0;0;Fair
+08.Aug;11:50 PM;82;61;48%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;12:20 AM;82;59;45%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;12:50 AM;82;61;48%;NNE;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;1:20 AM;82;61;48%;N;12 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;1:50 AM;82;61;48%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;2:20 AM;82;61;48%;N;17 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;2:50 AM;81;63;54%;N;17 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;3:20 AM;81;63;54%;NNE;15 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;3:50 AM;81;63;54%;NNE;16 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;4:20 AM;81;63;54%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;4:50 AM;81;63;54%;N;18 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;5:20 AM;79;63;57%;N;17 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;5:50 AM;79;61;54%;N;15 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;6:20 AM;79;61;54%;N;17 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;6:50 AM;79;59;51%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;7:20 AM;79;61;54%;N;15 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;7:50 AM;81;61;51%;N;20 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;8:20 AM;81;61;51%;N;17 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;8:50 AM;82;59;45%;N;17 mph ;29 mph ;29,6;0;0;Fair
+09.Aug;9:20 AM;84;55;37%;N;22 mph ;33 mph ;29,6;0;0;Fair / Windy
+09.Aug;9:50 AM;84;54;35%;N;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;10:20 AM;86;52;31%;N;23 mph ;36 mph ;29,6;0;0;Fair / Windy
+09.Aug;10:50 AM;86;54;33%;N;23 mph ;35 mph ;29,6;0;0;Fair / Windy
+09.Aug;11:20 AM;86;54;33%;NNE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;11:50 AM;86;55;35%;N;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;12:20 PM;86;55;35%;N;21 mph ;33 mph ;29,6;0;0;Fair / Windy
+09.Aug;12:50 PM;86;55;35%;NNE;22 mph ;35 mph ;29,7;0;0;Fair / Windy
+09.Aug;1:20 PM;86;57;37%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;1:50 PM;88;57;35%;NNE;23 mph ;36 mph ;29,6;0;0;Fair / Windy
+09.Aug;2:20 PM;88;57;35%;NNE;25 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;2:50 PM;88;59;38%;NNE;28 mph ;39 mph ;29,6;0;0;Fair / Windy
+09.Aug;3:20 PM;88;59;38%;NNE;25 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;3:50 PM;88;59;38%;NNE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;4:20 PM;88;57;35%;NNE;26 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;4:50 PM;88;59;38%;NNE;28 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;5:20 PM;88;57;35%;NNE;26 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;5:50 PM;86;59;40%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+09.Aug;6:20 PM;86;59;40%;N;20 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;6:50 PM;84;59;42%;N;20 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;7:20 PM;84;57;40%;N;18 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;7:50 PM;84;57;40%;N;16 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;8:20 PM;82;57;42%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;8:50 PM;82;57;42%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;9:20 PM;82;57;42%;N;12 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;9:50 PM;82;57;42%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;10:20 PM;82;57;42%;N;13 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;10:50 PM;81;59;48%;N;16 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;11:20 PM;81;59;48%;N;15 mph ;0 mph ;29,6;0;0;Fair
+09.Aug;11:50 PM;81;61;51%;N;20 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;12:20 AM;81;61;51%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;12:50 AM;81;61;51%;NNE;16 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;1:20 AM;81;61;51%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;1:50 AM;79;61;54%;NNE;16 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;2:20 AM;79;61;54%;N;12 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;2:50 AM;79;57;47%;N;15 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;3:20 AM;79;57;47%;N;13 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;3:50 AM;77;57;50%;N;17 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;4:20 AM;77;57;50%;NNE;18 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;4:50 AM;77;55;47%;N;18 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;5:20 AM;77;55;47%;N;17 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;5:50 AM;77;55;47%;N;18 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;6:20 AM;77;55;47%;N;16 mph ;0 mph ;29,6;0;0;Fair
+10.Aug;6:50 AM;77;55;47%;N;12 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;7:20 AM;77;57;50%;N;13 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;7:50 AM;77;59;54%;N;12 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;8:20 AM;79;61;54%;N;17 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;8:50 AM;81;61;51%;N;18 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;9:20 AM;81;59;48%;N;16 mph ;29 mph ;29,7;0;0;Fair
+10.Aug;9:50 AM;81;59;48%;N;23 mph ;37 mph ;29,7;0;0;Fair / Windy
+10.Aug;10:20 AM;82;61;48%;N;25 mph ;39 mph ;29,7;0;0;Fair / Windy
+10.Aug;10:50 AM;84;59;42%;N;23 mph ;37 mph ;29,7;0;0;Fair / Windy
+10.Aug;11:20 AM;84;59;42%;N;24 mph ;37 mph ;29,7;0;0;Fair / Windy
+10.Aug;11:50 AM;84;59;42%;N;25 mph ;38 mph ;29,7;0;0;Fair / Windy
+10.Aug;12:20 PM;84;59;42%;N;25 mph ;39 mph ;29,7;0;0;Fair / Windy
+10.Aug;12:50 PM;84;59;42%;N;22 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;1:20 PM;86;61;43%;NNE;23 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;1:50 PM;86;61;43%;N;30 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;2:20 PM;86;61;43%;NE;30 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;2:50 PM;88;61;40%;NNE;31 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;3:20 PM;86;63;45%;NNE;29 mph ;40 mph ;29,6;0;0;Fair / Windy
+10.Aug;3:50 PM;86;63;45%;NNE;28 mph ;40 mph ;29,7;0;0;Fair / Windy
+10.Aug;4:20 PM;86;63;45%;NNE;28 mph ;39 mph ;29,7;0;0;Fair / Windy
+10.Aug;4:50 PM;84;61;45%;NNE;26 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;5:20 PM;86;63;45%;N;24 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;5:50 PM;84;63;48%;N;23 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;6:20 PM;84;63;48%;N;23 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;6:50 PM;84;61;45%;N;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+10.Aug;7:20 PM;84;61;45%;NNE;26 mph ;38 mph ;29,7;0;0;Fair / Windy
+10.Aug;7:50 PM;82;61;48%;N;20 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;8:20 PM;82;61;48%;N;18 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;8:50 PM;81;59;48%;N;17 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;9:20 PM;81;59;48%;N;21 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;9:50 PM;81;59;48%;N;20 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;10:20 PM;81;59;48%;N;18 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;10:50 PM;81;61;51%;NNE;22 mph ;0 mph ;29,7;0;0;Fair / Windy
+10.Aug;11:20 PM;81;61;51%;NNE;20 mph ;0 mph ;29,7;0;0;Fair
+10.Aug;11:50 PM;81;59;48%;NNE;17 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;12:20 AM;81;61;51%;NNE;22 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;12:50 AM;79;61;54%;NNE;20 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;1:20 AM;79;61;54%;NNE;20 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;1:50 AM;79;61;54%;NNE;21 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;2:20 AM;79;61;54%;N;15 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;2:50 AM;77;61;57%;NNE;17 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;3:20 AM;77;61;57%;NNE;23 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;3:50 AM;77;61;57%;NNE;21 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;4:20 AM;77;61;57%;NNE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;4:50 AM;77;61;57%;N;21 mph ;32 mph ;29,6;0;0;Fair / Windy
+11.Aug;5:20 AM;77;59;54%;N;20 mph ;0 mph ;29,6;0;0;Fair
+11.Aug;5:50 AM;75;61;61%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;6:20 AM;75;61;61%;N;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;6:50 AM;75;61;61%;N;18 mph ;32 mph ;29,7;0;0;Fair
+11.Aug;7:20 AM;75;59;57%;N;16 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;7:50 AM;77;57;50%;N;22 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;8:20 AM;79;55;44%;N;25 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;8:50 AM;79;57;47%;N;23 mph ;35 mph ;29,7;0;0;Fair / Windy
+11.Aug;9:20 AM;79;57;47%;NNE;24 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;9:50 AM;79;57;47%;NNE;25 mph ;0 mph ;29,7;0;0;Fair / Windy
+11.Aug;10:20 AM;81;55;42%;NNE;30 mph ;44 mph ;29,7;0;0;Fair / Windy
+11.Aug;3:50 PM;84;54;35%;NNE;26 mph ;40 mph ;29,6;0;0;Fair / Windy
+11.Aug;4:20 PM;84;55;37%;NNE;28 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;4:50 PM;84;55;37%;NNE;25 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;5:20 PM;84;55;37%;NNE;26 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;5:50 PM;82;55;39%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;6:20 PM;82;55;39%;N;20 mph ;0 mph ;29,6;0;0;Fair
+11.Aug;6:50 PM;82;55;39%;N;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+11.Aug;7:20 PM;82;54;37%;N;17 mph ;0 mph ;29,6;0;0;Fair
+11.Aug;7:50 PM;81;54;39%;N;13 mph ;0 mph ;29,6;0;0;Fair
+11.Aug;8:20 PM;81;54;39%;N;12 mph ;24 mph ;29,6;0;0;Fair
+11.Aug;8:50 PM;81;54;39%;NNW;12 mph ;0 mph ;29,6;0;0;Fair
+11.Aug;9:20 PM;79;55;44%;NNW;12 mph ;0 mph ;29,6;0;0;Fair
+11.Aug;9:50 PM;79;54;42%;NNW;14 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;10:20 PM;79;55;44%;NNW;13 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;10:50 PM;79;55;44%;N;13 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;11:20 PM;79;55;44%;N;16 mph ;0 mph ;29,7;0;0;Fair
+11.Aug;11:50 PM;79;57;47%;N;18 mph ;0 mph ;29,7;0;0;Fair
+12.Aug;12:20 AM;77;57;50%;N;15 mph ;0 mph ;29,7;0;0;Fair
+12.Aug;12:50 AM;77;57;50%;N;10 mph ;0 mph ;29,7;0;0;Fair
+12.Aug;1:20 AM;77;57;50%;N;13 mph ;0 mph ;29,7;0;0;Fair
+12.Aug;1:50 AM;77;59;54%;N;13 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;2:20 AM;77;59;54%;N;12 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;2:50 AM;77;61;57%;NNE;13 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;3:20 AM;75;61;61%;NNE;16 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;3:50 AM;75;61;61%;N;10 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;4:20 AM;75;59;57%;N;10 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;4:50 AM;73;57;57%;N;9 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;5:20 AM;73;59;61%;N;8 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;5:50 AM;73;57;57%;N;8 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;6:20 AM;73;59;61%;N;12 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;6:50 AM;73;57;57%;NNW;12 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;7:20 AM;75;57;53%;N;13 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;7:50 AM;75;57;53%;N;16 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;8:20 AM;77;57;50%;N;17 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;8:50 AM;77;57;50%;N;22 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;9:20 AM;79;57;47%;N;18 mph ;0 mph ;29,7;0;0;Fair
+12.Aug;9:50 AM;81;57;45%;N;21 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;11:20 AM;81;57;45%;NNE;24 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;11:50 AM;82;55;39%;N;24 mph ;36 mph ;29,7;0;0;Fair / Windy
+12.Aug;12:20 PM;82;57;42%;NNE;28 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;12:50 PM;82;55;39%;N;25 mph ;39 mph ;29,7;0;0;Fair / Windy
+12.Aug;1:20 PM;82;55;39%;N;23 mph ;35 mph ;29,7;0;0;Fair / Windy
+12.Aug;1:50 PM;82;54;37%;NNE;23 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;2:20 PM;82;55;39%;NNE;23 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;2:50 PM;82;55;39%;NNE;24 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;3:20 PM;84;54;35%;NE;25 mph ;0 mph ;29,7;0;0;Fair / Windy
+12.Aug;3:50 PM;84;54;35%;ENE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+12.Aug;4:20 PM;84;54;35%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+12.Aug;4:50 PM;84;52;33%;NE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+12.Aug;5:20 PM;84;52;33%;NE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+12.Aug;5:50 PM;82;50;32%;NNE;20 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;6:20 PM;82;50;32%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+12.Aug;6:50 PM;81;52;37%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+12.Aug;7:20 PM;81;46;30%;N;20 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;7:50 PM;81;46;30%;N;18 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;8:20 PM;79;45;30%;N;14 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;8:50 PM;77;48;36%;N;9 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;9:20 PM;77;50;39%;NNW;8 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;9:50 PM;77;50;39%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;10:20 PM;79;50;36%;NW;6 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;10:50 PM;79;50;36%;WNW;6 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;11:20 PM;77;52;41%;N;8 mph ;0 mph ;29,6;0;0;Fair
+12.Aug;11:50 PM;77;52;41%;NNW;7 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;12:20 AM;77;52;41%;N;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;12:50 AM;77;52;41%;N;13 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;1:20 AM;77;52;41%;N;13 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;1:50 AM;77;52;41%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;2:20 AM;77;52;41%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;2:50 AM;75;52;44%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;3:20 AM;75;54;47%;NNE;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;3:50 AM;75;54;47%;NNE;13 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;4:20 AM;73;54;50%;N;7 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;4:50 AM;73;57;57%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;5:20 AM;75;57;53%;N;8 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;5:50 AM;75;57;53%;N;8 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;6:20 AM;75;55;50%;N;9 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;6:50 AM;75;55;50%;NW;6 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;7:20 AM;75;55;50%;NNW;5 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;7:50 AM;77;55;47%;NNW;5 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;8:20 AM;77;57;50%;N;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;8:50 AM;79;57;47%;N;12 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;9:20 AM;81;57;45%;N;14 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;9:50 AM;81;59;48%;N;17 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;10:20 AM;81;59;48%;NNE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;10:50 AM;82;57;42%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;11:20 AM;82;57;42%;N;17 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;11:50 AM;82;59;45%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;12:20 PM;82;61;48%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;12:50 PM;82;59;45%;NNE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;1:20 PM;82;61;48%;NNE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;1:50 PM;84;59;42%;NNE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;2:20 PM;84;57;40%;NNE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;2:50 PM;86;57;37%;ENE;23 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;3:20 PM;86;59;40%;ENE;21 mph ;33 mph ;29,6;0;0;Fair / Windy
+13.Aug;3:50 PM;84;59;42%;ENE;21 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;4:20 PM;84;54;35%;ENE;21 mph ;33 mph ;29,6;0;0;Fair / Windy
+13.Aug;4:50 PM;86;54;33%;ENE;24 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;5:20 PM;84;52;33%;ENE;20 mph ;33 mph ;29,6;0;0;Fair
+13.Aug;5:50 PM;82;54;37%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;6:20 PM;82;54;37%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;6:50 PM;82;54;37%;NNE;22 mph ;0 mph ;29,6;0;0;Fair / Windy
+13.Aug;7:20 PM;81;55;42%;NNE;18 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;7:50 PM;81;50;34%;NNE;17 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;8:20 PM;79;48;34%;NNE;15 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;8:50 PM;79;50;36%;N;13 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;9:20 PM;79;50;36%;NNE;10 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;9:50 PM;77;50;39%;VAR;2 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;10:20 PM;77;48;36%;VAR;1 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;10:50 PM;73;50;44%;N;13 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;11:20 PM;73;50;44%;N;7 mph ;0 mph ;29,6;0;0;Fair
+13.Aug;11:50 PM;73;50;44%;NNW;6 mph ;0 mph ;29,6;0;0;Fair
