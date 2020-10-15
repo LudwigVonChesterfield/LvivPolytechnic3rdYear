@@ -1,0 +1,103 @@
+% DOCUMENT
+\documentclass[oneside,14pt,a4paper]{extreport}
+
+% LANGUAGE
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, ukrainian]{babel}
+
+% VARIABLES
+\newcommand \labno    {1}
+\newcommand \course   {Візуалізація даних}
+\newcommand \group    {310}
+\newcommand \lecturer {Бойко Наталія Іванівна}
+\newcommand \theme    {Аналіз даних	та статистичне виведення}
+\newcommand \purpose  {[Мета звіту]}
+
+% PACKAGES
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{pgfplots}
+
+% GEOMETRY
+\usepackage{geometry}
+\geometry{left   = 2.5cm}
+\geometry{right  = 1cm}
+\geometry{top    = 2cm}
+\geometry{bottom = 2cm}
+\renewcommand {\baselinestretch} {1.5}
+\setlength\parindent{1cm}
+
+% IMAGES
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\graphicspath{ {./imgs/} }
+
+% FOOTER
+\usepackage{scrpage2}
+\ifoot[]{}
+\cfoot[]{}
+\ofoot[\pagemark]{\pagemark}
+\pagestyle{scrplain}
+
+% CHAPTERS
+
+\newcommand\Section[1]{
+ \refstepcounter{section}
+ \section*{
+  \arabic{section}. #1}
+}
+
+\newcommand\Subsection[1]{
+ \refstepcounter{subsection}
+ \section*{
+  \arabic{section}.\arabic{subsection}. #1}
+}
+
+\sloppy
+\begin{document}
+\begin{titlepage}
+
+\centering
+ \textbf{
+  МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ \\
+  НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ \flqq{}ЛЬВІВСЬКА ПОЛІТЕХНІКА\frqq{}
+ }
+
+\vspace{1.5cm}
+ \textbf{
+  Інститут комп'ютерних наук та інформаційних технологій \\
+  Кафедра систем штучного інтелекту
+}
+
+\vspace*{\fill}
+
+  {\textbf{Лабораторна робота №\labno}
+   \par}
+  {З курсу \flqq\course\frqq \par}
+
+\vspace{1cm} \theme
+
+\raggedleft\vfill
+
+ {\textbf{Виконав:} \par}
+ {ст. гр. КН-\group \par}
+ {Бікєєв Андрій \par}
+
+\vspace{1cm}
+
+ {\textbf{Викладач:} \par}
+ {\lecturer \par}
+
+\vspace{1cm}
+
+\centering {Львів -- \the\year \par}
+
+\end{titlepage}
+
+\Section{Умова завдання}
+
+\Section{Висновки}.
+
+\end{document}
