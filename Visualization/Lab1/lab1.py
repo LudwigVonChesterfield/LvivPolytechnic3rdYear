@@ -1,24 +1,42 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import seaborn as sns
 
-data = data = pd.read_csv("flats.csv", sep = ',', decimal=',')
+data = pd.read_csv("flats.csv", sep = ',', decimal=',')
 data.columns = [col.replace('"', '') for col in data.columns]
-print(data)
-data.info()
 
+"""
 print(data.shape)
 
-data.head()
+print(data.head(6))
+print(data.head(15))
+print(data.tail(6))
 
 print(data.columns)
-data['Кімнат'].describe()
+"""
 
-data.groupby('Місто').count()
+"""
+print(len(data.columns))
+print(len(data.filter(items="Місто")))
+print(len(data[(data.Місто == "Одеса") & (data.Кімнат == 3)]))
+
+data["Загальна_площа"] = data["Загальна_площа"].str.replace(
+    ',', '.'
+).astype(float)
+newdata = data[(data.Місто == "Львів") & (data.Кімнат == 1)]
+print(newdata["Загальна_площа"].median())
+"""
+print(len(data.loc[data["Місто"] == "Києво-Святошинський"]))
+print(data["Загальна_площа"].mean())
+
+# data['Кімнат'].describe()
+
+# data.groupby('Місто').count()
 
 values = data.groupby('Кімнат').size().reset_index(name='Кількість')
 x_ax = values['Кімнат'].tolist()
-y_ax = values['Кімнат'].tolist()
+y_ax = values['Кількість'].tolist()
 
 plt.bar(x_ax, y_ax, color='b')
 plt.xlabel('Кімнат')

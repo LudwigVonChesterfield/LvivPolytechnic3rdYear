@@ -94,8 +94,8 @@ with open("file.txt", 'w') as f:
     n = int(input("Please enter a number of random numbers to generate."))
 
     i = 0
-    # while period != 0 and i < n:
-    for i in range(n):
+    while period == 0 or i < n:
+    # for i in range(n):
         i += 1
         x = gen_rand(x)
         if i < n:
@@ -106,6 +106,6 @@ with open("file.txt", 'w') as f:
 
     if period != 0 and n < m:
         print(
-            "Period is less than m(and equals to",
-            period,
+            "Period is less than m(and equals to " +
+            str(period) +
             "), thus it is not full.")
