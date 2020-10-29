@@ -171,7 +171,7 @@ def main():
     #by_region = unfiltered_data.groupby('registration_area').agg(
     #    {'new_susp': 'sum', 'active_confirm': 'sum', 'new_death': 'sum', 'new_recover': 'sum', 'new_confirm': 'sum'})
     #by_region.to_csv('regions_aggregated_grouped.csv')
-    #by_region.to_excel('regions_aggregated_grouped.xlsx')
+    by_region.to_excel('regions_aggregated_grouped.xlsx')
 
 
 if __name__ == "__main__":
